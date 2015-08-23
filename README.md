@@ -9,7 +9,7 @@ Media: Import media module to access Movie class. Movie class contains some movi
 
 Trailers: Contains list of movie instances and displays on webpage.
 
-fresh_tomatoes: Open source file. Renders movie poster images in a webpage. 
+fresh_tomatoes: Open source file from Udacity. Renders movie poster images in a webpage. 
                            Call open_movies_page with movies list array to open the web page that lists   
                             movies information
  
